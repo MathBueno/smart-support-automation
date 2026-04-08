@@ -1,0 +1,10 @@
+[
+    {
+        "ticket": "Usuário não consegue logar no sistema, recebe erro 500",
+        "response": "Olá! Problema: erro do usuário. Causa: usuário digitou senha errada. Solução: orientar usuário a resetar senha. Prioridade: médio."
+    },
+    {
+        "ticket": "API está retornando timeout depois do deploy",
+        "response": "Olá! Problema: bug. Causa: problema no servidor. Solução: verificar logs e reiniciar serviço. Prioridade: alto."
+    }
+]

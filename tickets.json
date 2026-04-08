@@ -1,0 +1,8 @@
+[
+  {
+    "ticket": "Usuário não consegue logar no sistema, recebe erro 500"
+  },
+  {
+    "ticket": "API está retornando timeout depois do deploy"
+  }
+]
