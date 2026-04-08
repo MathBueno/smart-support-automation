@@ -9,14 +9,14 @@ This project demonstrates practical skills in:
 - Automation using Python
 - Working with JSON data
 
-## 🚀 Features
+##  Features
 - Load support tickets from a file
 - Analyze each ticket and classify the problem
 - Suggest technical solutions automatically
 - Output structured responses in JSON format
 
-## 🧰 Tech Stack
+##  Tech Stack
 - Python 3
 - JSON
 
-## 📋 Project Structure
+##  Project Structure
